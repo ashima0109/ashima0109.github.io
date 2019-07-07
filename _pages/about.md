@@ -8,7 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Test data
-
-
-A bit about myself
+Head of Engineering in a deep-tech startup with a PhD in Physics from Germany. Innovative and strategic thinker with a passion for problem-solving. Currently exploring exciting and challenging opportunities in data science.
