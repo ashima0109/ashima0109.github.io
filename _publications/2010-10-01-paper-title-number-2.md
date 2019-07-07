@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: " Spatially resolved investigation of all opticalmagnetization switching in tbfe alloys."
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2010-08-25-paper-title-number-2
+date: 2017-08-25
+venue: 'Scientific Reports'
+paperurl: 'http://ashima0109.github.io/files/paper2.pdf'
+citation: 'Ashima Arora, Mohamad-Assaad Mawass, Oliver Sandig, Chen Luo, Ahmet A Ünal, FlorinRadu, Sergio Valencia, and Florian Kronast &quot; Spatially resolved investigation of all opticalmagnetization switching in tbfe alloys.&quot; <i>Scientific Reports </i> ,7, 2017.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://ashima0109.github.io/files/paper2.pdf)

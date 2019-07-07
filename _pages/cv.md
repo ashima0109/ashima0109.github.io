@@ -11,42 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D** in Physics (2014 - 2018) <br>
+ Helmholtz-Zentrum Berlin for Materials und Energy, Berlin, Germany <br>
+ **Thesis title**: Optical and electric field control of magnetism
+	* Computational modeling of magnetic thin film systems interacting with lasers using MATLAB and Igor-Pro data analysis software.
+	* Designed and carried out experiments at BESSY-II synchrotron ring.
+	* Collaborated with external users from a diverse background and provided assistance for performing experiments at several experimental stations.
+	* Performed quantitative analysis of the experimental data using Matlab and Igor-Pro.
+	* Wrote scientific research proposals for the grant of experimental time.
+	* Presented invited talks and posters at international conferences.
+	* Six research publications in high impact peer-reviewed journals such as Nature Physics, Scientific Reports, and Advanced Materials. 
+* **B.S.-M.S. Dual Degree** in Physics (2009 - 2014) <br>
+	Indian Institute of Science Education and Research (IISER), Mohali, India 
+	* Four research publications in top peer-reviewed journals.
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Head of Engineering** (Dec 2018 - Present) <br>
+	Staple AI Pte Ltd, Singapore <br>	
+	* Researched, built and developed the document scanning technology that automates information extraction using Computer Vision and Machine learning focussed on image processing and text-detection. 
+	* Deployed and maintained APIs for the product demo on AWS using Docker engine and Flask.
+	* Mentored and lead the engineering team of five to support a vibrant and productive engineering culture. 
+	* Gained vast experience in agile development practices and architectural knowledge of web-based and backend technologies.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Founder in Residence** (Aug 2018 - Oct 2018) <br>
+	Entrepreneur First, Singapore. 
+	* Explored deep technology startup ideas in the world's leading accelerator.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Software skills: <br>
+	Python, C, Matlab, Machine Learning, GitHub, OpenCV, Docker, Flask, AWS
+* Relevant courses: <br>
+	Probability and statistics, Linear algebra, Topics in mathematical methods and Computational physics, Introduction to Machine Learning, Applied Machine Learning in Python
 
 Publications
 ======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
